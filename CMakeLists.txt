@@ -11,6 +11,7 @@ set_target_properties(tuple_cli PROPERTIES
         CXX_STANDARD_REQUIRED ON
         )
 
+
 install(TARGETS tuple_cli RUNTIME DESTINATION bin)
 
 set(CPACK_GENERATOR DEB)
