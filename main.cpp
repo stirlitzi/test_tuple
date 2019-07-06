@@ -16,7 +16,7 @@ auto getPerson() {
 }
 
 
-class custom_tuple{
+class custom_tuple {
 public:
 
 };
@@ -42,8 +42,6 @@ private:
     string *secondname;
     string *department;
     size_t *age;
-
-
 };
 
 int main(int argc, char *argv[]) {
